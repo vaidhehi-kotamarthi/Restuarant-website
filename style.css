@@ -1,0 +1,112 @@
+.container{
+    background-image: url("https://tse1.mm.bing.net/th/id/OIP._8l_F_qEyAp_A3svK5h_9QHaE8?cb=thfc1falcon2&rs=1&pid=ImgDetMain&o=7&rm=3");
+    height: 400px;
+     width:auto;
+     padding:20px;
+   
+}
+
+.mainheading{
+    text-align: center;
+    color:#fff;
+    padding: 50px;
+}
+.heading{
+    text-align: center;
+    color:antiquewhite;
+    font-style: oblique;
+}
+
+.heading1{
+    text-align: center;
+    color:black;
+    font-style: oblique;
+}
+   
+p{
+    text-align: center;
+    color:#fff;
+    font-family:Georgia;
+    font-style: italic;
+   padding-left: 100px;
+   padding-right: 100px;
+   
+}
+
+.para{
+    text-align: center;
+    color:black;
+    font-family:Georgia;
+    font-style: italic;
+   padding-left: 100px;
+   padding-right: 100px;
+   
+}
+
+.para1{
+    text-align: left;
+    color:black;
+    font-family:Georgia;
+    font-style: normal;
+   padding-left: 10px;
+   padding-right: 10px;
+   font-size: 18px;
+   
+}
+
+.container1{
+    background-image: url("https://cdn.britannica.com/08/177308-050-94D9D6BE/Food-Pizza-Basil-Tomato.jpg");
+    height: 600px;
+    width:auto;
+    background-size: cover;
+
+}
+
+.container2{
+    background-image: url("https://images.pexels.com/photos/1639565/pexels-photo-1639565.jpeg?cs=srgb&dl=pexels-valeriya-1639565.jpg&fm=jpg");
+    height: 600px;
+    width:auto;
+    background-size: cover;
+}
+
+.container3{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/030/625/459/non_2x/photorealistic-product-shot-foodgraphy-ziti-free-photo.jpg");
+    height: 600px;
+    width:auto;
+    background-size: cover;
+   
+}
+
+.container4{
+    background-image: url("https://mayuris-jikoni.com/wp-content/uploads/2020/06/Rainbow-Salad-1.jpg");
+    height: 600px;
+    width:auto;
+    background-size: cover;
+}
+
+.button{
+    color:#fff;
+    background-color: black;
+    border-radius: 8px;
+    padding:8px;
+    text-align:center;
+}
+
+.contact{
+    background-color:bisque;
+    text-align: center;
+    padding: 40px;
+    margin-top: 30px;
+}
+
+.contact h2{
+    font-size: 32px;
+    margin-bottom: 15px;
+    color: #333;
+}
+
+.contact p{
+    font-size: 16px;
+    color: #555;
+    margin: 10px 0;
+}
